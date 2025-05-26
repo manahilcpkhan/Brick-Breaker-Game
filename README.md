@@ -1,5 +1,3 @@
-# Brick Breaker Game (COAL)
- 
 # Brick Breaker Game 🧱⚾
 
 A classic arcade-style brick breaker game implemented in Assembly Language (MASM615) as part of a Computer Organization & Assembly Language course project.
